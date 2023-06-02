@@ -15,7 +15,7 @@ Openai key:
 Python:
 -	pip install openai
 
--	import os
+import os
 
 import openai
 
