@@ -2,7 +2,7 @@
 Dette er en chatbot jeg har laget med python.
 Den leter etter ord du sier og svarer med en setning.
 
-Det eneste du trenger en python også en kode som jeg har laget også funker det.
+Det eneste du trenger er python, også en kode som jeg har laget så skal det funke.
 
 Du kan også lage en ordentlig chatbot med openai, detter er hvordan:
 Openai key:
